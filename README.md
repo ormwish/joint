@@ -65,27 +65,27 @@ Make sure you have the following dependencies installed on your system:
 
 ### Setup
 
-Clone this git repository:
+1 . Clone this git repository:
 ```
 git clone https://github.com/clientIO/joint.git
 ```
 
-Change into the joint directory:
+2. Change into the joint directory:
 ```
 cd joint
 ```
 
-Install all NPM dependencies:
+4. Install all NPM dependencies:
 ```
 npm install
 ```
 
-Generate build files from the source code:
+5. Generate build files from the source code:
 ```
 grunt install
 ```
 
-You are ready now to browse our demos:
+6. ou are ready now to browse our demos:
 ```
 cd demo
 ```
